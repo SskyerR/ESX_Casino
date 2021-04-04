@@ -1,0 +1,6 @@
+start blackjack
+start program-casino
+start ruletka
+start sloty
+start casinoexterior
+start casinointerior
